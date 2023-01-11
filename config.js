@@ -5,7 +5,7 @@ window.Config = {
   SiteName: 'Asgard Main Network Montior',
 
   // 站点链接
-  SiteUrl: 'https://zctnet.top:999/',
+  SiteUrl: 'https://status.zctnet.top/',
 
   // UptimeRobot Api 域名
   // 只需填写域名部分，默认为官网域名
